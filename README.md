@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 <div>
  <img  height="176em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
+</div>
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-</div>
 
 
 
