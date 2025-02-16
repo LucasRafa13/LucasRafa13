@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 <div>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&include_all_commits=true"/>
+  ![Snake animation](https://github.com/LucasRafa13/LucasRafa13/blob/main/.github/workflows/main.yml)
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
 </div>
-![Snake animation](https://github.com/LucasRafa13/LucasRafa13/blob/main/.github/workflows/main.yml)
+
 
 
 
