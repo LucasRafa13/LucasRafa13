@@ -94,6 +94,6 @@ Here are some ideas to get you started:
   <a href="https://meu-portfolio-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" target="_blank"></a>
   </div>
   <img/>
-   ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
+   ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-contribution-grid-snake.svg)
 
 </div>
