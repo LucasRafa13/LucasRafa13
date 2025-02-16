@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 </div>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
 </picture>
 
 
