@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
 </div>
 
-<img height="170em" src="https://github.com/LucasRafa13/LucasRafa13/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img height="169em" src="https://github.com/LucasRafa13/LucasRafa13/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 ## Pontos Fortes!!
 <div>
