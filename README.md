@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <div>
  <img  height="176em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
-   ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
 </div>
 
 
@@ -94,5 +93,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lucas-rafael-araujo-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://meu-portfolio-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" target="_blank"></a>
   </div>
+   ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
 
 </div>
