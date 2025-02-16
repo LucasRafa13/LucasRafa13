@@ -22,13 +22,8 @@ Here are some ideas to get you started:
 <div>
  <img  height="176em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
+   ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
 </div>
-
- <picture>
-  ![snake animation](https://github.com/<LucasRafa13>/<LucasRafa13>/blob/output/github-snake-dark.svg)
-</picture>
-
-
 
 
 ## Pontos Fortes!!
