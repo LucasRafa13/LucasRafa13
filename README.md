@@ -92,4 +92,5 @@ Here are some ideas to get you started:
   <a href="https://meu-portfolio-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" target="_blank"></a>
   </div>
 </div>
+
 [![An image of @lucasrafa13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasrafa13)](https://holopin.io/@lucasrafa13)
