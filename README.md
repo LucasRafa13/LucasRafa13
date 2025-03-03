@@ -93,5 +93,5 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<img height="210em" src="https://holopin.me/lucasrafa13"/>
+<img height="250em" src="https://holopin.me/lucasrafa13"/>
 
