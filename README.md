@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
  <img  height="176em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
-  <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
+  <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/> 
 </div>
 
 <img height="166em" src="https://github.com/LucasRafa13/LucasRafa13/blob/output/github-contribution-grid-snake-dark.svg"/>
@@ -92,3 +92,4 @@ Here are some ideas to get you started:
   <a href="https://meu-portfolio-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" target="_blank"></a>
   </div>
 </div>
+[![An image of @lucasrafa13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasrafa13)](https://holopin.io/@lucasrafa13)
