@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 :computer: Trabalho como Dev FullStack :computer:
 
 <div>
- <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
-  <img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/> 
+ <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
+  <img  height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/> 
 </div>
 
 <img height="166em" src="https://github.com/LucasRafa13/LucasRafa13/blob/output/github-contribution-grid-snake-dark.svg"/>
