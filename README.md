@@ -93,4 +93,5 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-[![An image of @lucasrafa13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasrafa13)](https://holopin.io/@lucasrafa13)
+<img height="180em" src="https://holopin.io/@lucasrafa13"/>
+
