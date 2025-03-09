@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 :computer: Trabalho como Dev FullStack :computer:
 
-<div>
+<div> 
  <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
   <img  height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/> 
-  <img height="101em" src="https://github-profile-trophy.vercel.app/?username=LucasRafa13&theme=onedark" />
+  <img height="101em" src="https://github-profile-trophy.vercel.app/?username=LucasRafa13&theme=onedark" /> 
 </div>
 
 
@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 <img height="55cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img height="55cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 </div>
+
+## 🔬 Labs
+<div>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/AnonymousLuke.png" alt="Your Image Badge" />
+</div>
+
 
 ### Programming Languages:<br>
 
