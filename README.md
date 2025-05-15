@@ -1,6 +1,6 @@
 
 <!--
-**TomiShelbi/TomiShelbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TomiShelbi/TomiShelbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. &include_all_commits=true
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :computer: Trabalho como Dev FullStack :computer:
 
 <div> 
- <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true&include_all_commits=true"/>
+ <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&theme=outrun&show_icons=true"/>
   <img  height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
 </div>
 
