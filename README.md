@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🔬 Labs
 <div>
- <img src="https://tryhackme-badges.s3.amazonaws.com/AnonymousLuke.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/AnonymousLuke.png" alt="Your Image Badge" />
 </div>
 
 
