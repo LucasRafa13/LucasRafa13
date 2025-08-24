@@ -69,7 +69,7 @@ const lucas = {
 
 ### 🔧 Tools & OS
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,debian" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </div>
 
 ---
