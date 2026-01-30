@@ -6,15 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&hide_border=true)
-
-
----
-
 ## 🚀 Sobre Mim
 
 ```javascript
