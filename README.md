@@ -8,18 +8,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&count_private=true&hide_border=true&cache_seconds=1800"
-    alt="Lucas Rafael GitHub stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6&hide_border=true&cache_seconds=1800"
-    alt="Most used languages"
-  />
-</div>
+![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&hide_border=true)
+
 
 ---
 
